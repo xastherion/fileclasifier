@@ -43,3 +43,6 @@ he creado el script cambiar_nombre para trabajar esto
 Este script es para los flojos que quieren correr todo en uno al mejor estilo de los programas. Bueno, yo he creado estos
 script para aprender un poco mas de python y cumplir un requerimiento propio. Si te sirve de algo me alegraria saberlo con
 algun like o comentario
+
+======= FIN =======
+Cuando estas satisfecho con los resultados puedes borrar el origen en tu telefono. No olvides nunca tener copia doble de tus archivos importantes!
