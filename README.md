@@ -1,11 +1,11 @@
 # fileclasifier
 
 Este es una coleccion de scripts en python que programé para organizar Fotos.
-Yo sé que hay herramientas fantasticas como google-fotos o iPhotos, Picasa, etc, etc. Pero no me dan confianza.
-No sólo porque repartan mis fotos en internet, sino también porque lo hacen todo tan automático y de pronto
+Yo sé que hay herramientas fantásticas como google-fotos o iPhotos, Picasa, etc, etc. Pero no me dan confianza.
+No sólo porque repartan mis fotos en internet, sino también porque lo hacen tan automático que de pronto
 ya no hay mas fotos.
 
-Es uso de este Script es un poco mas complicado, pero mucho más seguro. También es mas simplificado: no reconoce caras ni las clasifica por los lugares donde estuviste.
+El uso de este Script es un poco mas complicado, pero mucho más seguro. También es mas simple: no reconoce caras ni las clasifica por los lugares donde estuviste.
 
 Para ver de que se trata, lo mejor es ver como se usa:
 
@@ -20,7 +20,7 @@ La magia del script es que creará carpetas según los meses de las fotos, así 
 la carpeta contendra despues también mil fotos.
 
 Si hay fotos tomadas en meses diferentes, el script creara una carpeta para cada mes.
-al final tendras un directorio mas o menos asi:
+al final tendrás un directorio mas o menos asi:
 
 escritorio/dcim/
 escritorio/dcim/2017-11
@@ -30,7 +30,7 @@ y asi. Si tienes fotos de todo el año, tendras 12 carpetas.
 
 ======= SCRIPT COMPARAR =======
 Como despues es dificil de comparar si todas las fotos estan donde debieran, he creado el script comparar,
-que no hace mas que contar cuantos archivos (en este caso fotos) hay en todas las carpetas segun la raíz dada
+que no hace mas que contar cuantos archivos (en este caso fotos) hay en todas las carpetas segun la raíz dada.
 
 ======= SCRIPT CAMBIAR_NOMBRE =======
 Si como yo, tienes un servidor donde descargas las fotos de tu handy, de el de tu pareja, tus hijos, amigos, etc.
